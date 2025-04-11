@@ -11,7 +11,7 @@ treebanks
 for [Turkic languages](https://en.wikipedia.org/wiki/Turkic_languages).
 The workshop will be held as a half-day workshop
 at [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/)
-in Ljubljana on 26 September 2025.
+in Ljubljana on 26 August 2025.
 We also aim to facilitate online participation.
 
 The focus of the workshop will be _consistent_ annotations
