@@ -3,32 +3,31 @@ layout: default
 title: Home
 ---
 
-As a follow-up to
-[2023 workshop in Istanbul](https://ud-turkic.github.io/udtw23/),
-this workshop aims to bring together people working on
-[Universal Dependencies](http://universaldependencies.github.io/docs/) (UD)
-treebanks
-for [Turkic languages](https://en.wikipedia.org/wiki/Turkic_languages).
-The workshop will be held as a half-day workshop
-at [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/)
-in Ljubljana on 26 August 2025.
-We also aim to facilitate online participation.
+# 2nd Workshop on Universal Dependencies for Turkic Languages
 
-The focus of the workshop will be _consistent_ annotations
-of a number of phenomena that has been discussed in the community
-since the Istanbul meeting,
-in particular the annotation of "-ki suffix"
-and copular constructions where there are concrete proposals
-produced by the members of the community.
-We are also interested in other linguistic phenomena in Turkic languages
-that are not easy (or elegant) to annotate with the current
-[UD guidelines](https://universaldependencies.org/guidelines.html).
+As a follow-up to the [2023 workshop in Istanbul](https://ud-turkic.github.io/udtw23/), this workshop aims to bring together researchers working on [Universal Dependencies](http://universaldependencies.github.io/docs/) (UD) treebanks for [Turkic languages](https://en.wikipedia.org/wiki/Turkic_languages).
 
-Other topics, new treebanks for Turkic languages,
-(linguistic) research done on the treebanks,
-and other use of treebanks for research and practical applications, are welcome.
+The workshop will be held as a half-day session at [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana on August 26, 2025. We will also facilitate online participation.
 
-The workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology (UniDive).
+## Focus Areas
+
+The primary focus of the workshop will be on _consistent_ annotations of several phenomena that have been discussed in the community since the Istanbul meeting, particularly:
+
+- The annotation of the "-ki suffix"
+- Copular constructions, for which concrete proposals have been produced by community members
+
+We are also interested in exploring other linguistic phenomena in Turkic languages that present challenges for annotation within the current [UD guidelines](https://universaldependencies.org/guidelines.html).
+
+## Additional Topics
+
+We welcome contributions on:
+- New treebanks for Turkic languages
+- Linguistic research conducted using the treebanks
+- Applications of treebanks for research and practical purposes
+
+## Support
+
+This workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology (UniDive).
 
 ## Program
 
