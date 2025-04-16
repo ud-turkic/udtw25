@@ -21,6 +21,7 @@ We are also interested in exploring other linguistic phenomena in Turkic languag
 ## Additional Topics
 
 We welcome contributions on:
+
 - New treebanks for Turkic languages
 - Linguistic research conducted using the treebanks
 - Applications of treebanks for research and practical purposes
@@ -38,6 +39,7 @@ TBD
 - Bermet Chontaeva, [University of Tübingen](https://uni-tuebingen.de/en/)
 - Soudabeh Eslami, [University of Tübingen](https://uni-tuebingen.de/en/)
 - Arofat Akhundjanova
+- [Nikolett Mus](https://nytud.hu/en/colleague/nikolett-mus/profile), [Institute for Historical and Uralic Linguistics](https://nytud.hu/en)
 - [Furkan Akkurt](https://furkanakkurt1335.github.io/), [Boğaziçi University](https://bogazici.edu.tr/)
 - [Çağrı Çöltekin](http://coltekin.net/cagri/), [University of Tübingen](https://uni-tuebingen.de/en/)
 
