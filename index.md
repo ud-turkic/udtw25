@@ -26,10 +26,6 @@ We welcome contributions on:
 - Linguistic research conducted using the treebanks
 - Applications of treebanks for research and practical purposes
 
-## Support
-
-This workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology (UniDive).
-
 ## Program
 
 TBD
@@ -44,3 +40,13 @@ TBD
 - [Çağrı Çöltekin](http://coltekin.net/cagri/), [University of Tübingen](https://uni-tuebingen.de/en/)
 
 Contact point for questions / help: <tt>[udtw-organisers@googlegroups.com](mailto:udtw-organisers@googlegroups.com)</tt>
+
+## Support
+
+This workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/logos/UniDive.png" alt="UniDive logo" style="max-width: 100px; height: auto;">
+  <img src="assets/logos/COST.jpg" alt="COST logo" style="max-width: 100px; height: auto;">
+  <img src="assets/logos/Horizon_Europe.png" alt="Horizon Europe logo" style="max-width: 100px; height: auto;">
+</div>
