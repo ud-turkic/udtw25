@@ -11,19 +11,26 @@ The workshop will be held in a hybrid format as a half-day session at [SyntaxFes
 
 ## Linguistic Fields & Languages
 
-**Linguistic Field(s):**  
+**Linguistic Field(s):**
 
 - Computational Linguistics
 - General Linguistics
 - Text/Corpus Linguistics
 
-**Subject Language(s):**  
+**Subject Language(s):**
 
 - Azerbaijani (aze)
+- Bashkir (bak)
+- Crimean Tatar (crh)
 - Kazakh (kaz)
 - Kirghiz (kir)
+- Sakha/Yakut (sah)
+- Tatar (tat)
 - Turkish (tur)
+- Turkmen (tuk)
+- Uyghur (uig)
 - Uzbek (uzb)
+- Other Turkic languages
 
 **Language Family:** Turkic
 
@@ -31,7 +38,7 @@ The workshop will be held in a hybrid format as a half-day session at [SyntaxFes
 
 We invite submissions for short presentations (10 minutes) on topics concerning UD Turkic treebanks. The maintainers of existing treebanks, as well as those in the process of developing new ones, are strongly encouraged to present their work and discuss interesting or challenging annotation cases.
 
-If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the registration form (below) by **June 10, 2025**. 
+If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 10, 2025**.
 
 The abstract should provide brief information about the treebank that you are maintaining or building, as well as the issues you would like to discuss in your presentation. Abstracts on other topics concerning the UD Turkic treebanks are also welcome.
 
@@ -58,7 +65,7 @@ TBD
 
 ## Registration
 
-If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 10, 2025**.
+If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 10, 2025**. The same form can be used to submit your abstract if you would like to present at the workshop.
 
 ## Organizers
 
