@@ -30,6 +30,10 @@ We welcome contributions on:
 
 TBD
 
+## Participation Interest
+
+If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please fill out the [interest form](https://forms.gle/VB9fBKDMrJdRucA16). This will help us gauge interest and plan accordingly. The deadline for expressing interest is **June 10, 2025**.
+
 ## Organizers
 
 - Bermet Chontaeva, [University of Tübingen](https://uni-tuebingen.de/en/)
