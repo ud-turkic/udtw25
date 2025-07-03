@@ -7,7 +7,7 @@ title: Home
 
 As a follow-up to the [2023 workshop in Istanbul](https://ud-turkic.github.io/udtw23/), this workshop aims to bring together researchers working on [Universal Dependencies](http://universaldependencies.github.io/docs/) (UD) treebanks for [Turkic languages](https://en.wikipedia.org/wiki/Turkic_languages).
 
-The workshop will be held in a hybrid format as a half-day session at [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana on August 26, 2025. We will also facilitate online participation.
+The workshop will be held in a hybrid format as a half-day session at [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana on August 26, 2025. We will also facilitate online participation. Zoom links will be provided to registered participants before the workshop.
 
 ## Linguistic Fields & Languages
 
@@ -38,7 +38,7 @@ The workshop will be held in a hybrid format as a half-day session at [SyntaxFes
 
 We invite submissions for short presentations (10 minutes) on topics concerning UD Turkic treebanks. The maintainers of existing treebanks, as well as those in the process of developing new ones, are strongly encouraged to present their work and discuss interesting or challenging annotation cases.
 
-If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 10, 2025**.
+If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June ~~10~~ 30, 2025**.
 
 The abstract should provide brief information about the treebank that you are maintaining or building, as well as the issues you would like to discuss in your presentation. Abstracts on other topics concerning the UD Turkic treebanks are also welcome.
 
@@ -65,7 +65,7 @@ TBD
 
 ## Registration
 
-If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 10, 2025**. The same form can be used to submit your abstract if you would like to present at the workshop.
+If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June ~~10~~ 30, 2025**. The same form can be used to submit your abstract if you would like to present at the workshop.
 
 ## Organizers
 
