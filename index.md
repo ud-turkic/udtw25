@@ -61,11 +61,29 @@ We welcome contributions on:
 
 ## Program
 
-TBD
+The workshop will be organized into two sessions:
 
-## Registration
+**Session 1: Presentations (09:00–10:30)**
 
-If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June ~~10~~ 30, 2025**. The same form can be used to submit your abstract if you would like to present at the workshop.
+09:00–09:15  Issues related to the copula in Turkic languages — Jonathan Washington
+09:15–09:30  The "-ki" suffix annotation in Turkic languages — Nikolett Mus
+09:30–09:45  New parallel treebanks — several collaborators
+09:45–10:00  Uzbek treebank — Sanatbek
+10:00–10:15  Karakalpak language — Ayperi
+10:15–10:30  Q&A for all presentations
+
+**Coffee Break (10:30–11:00)**
+
+**Session 2: Panel Discussion (11:00–13:00)**
+
+Panel discussion on open questions, annotation challenges, and community topics related to UD Turkic treebanks. All participants are welcome to join and contribute.
+
+## Registration (closed)
+
+~~If you are interested in participating in the 2nd Workshop on Universal Dependencies for Turkic Languages, please complete the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June 30, 2025**. The same form can be used to submit your abstract if you would like to present at the workshop.~~
+
+The registration for the workshop is now closed.
+Everyone is welcome to attend the workshop and participate in the discussions.
 
 ## Organizers
 
@@ -73,7 +91,7 @@ If you are interested in participating in the 2nd Workshop on Universal Dependen
 - Soudabeh Eslami, [University of Tübingen](https://uni-tuebingen.de/en/)
 - Arofat Akhundjanova
 - [Nikolett Mus](https://nytud.hu/en/colleague/nikolett-mus/profile), [Hungarian Research Centre for Linguistics](https://nytud.hu/en)
-- [Furkan Akkurt](https://furkanakkurt1335.github.io/), [Boğaziçi University](https://bogazici.edu.tr/)
+- Furkan Akkurt, [Boğaziçi University](https://bogazici.edu.tr/)
 - [Çağrı Çöltekin](http://coltekin.net/cagri/), [University of Tübingen](https://uni-tuebingen.de/en/) (Workshop Chair)
 
 Contact point for questions / help: <tt>[udtw-organisers@googlegroups.com](mailto:udtw-organisers@googlegroups.com)</tt>
