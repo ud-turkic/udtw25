@@ -35,13 +35,13 @@ The workshop will be held in a hybrid format as a half-day session at [SyntaxFes
 
 **Language Family:** Turkic
 
-## Call for Abstracts
+## Call for Abstracts (closed)
 
-We invite submissions for short presentations (10 minutes) on topics concerning UD Turkic treebanks. The maintainers of existing treebanks, as well as those in the process of developing new ones, are strongly encouraged to present their work and discuss interesting or challenging annotation cases.
+~~We invite submissions for short presentations (10 minutes) on topics concerning UD Turkic treebanks. The maintainers of existing treebanks, as well as those in the process of developing new ones, are strongly encouraged to present their work and discuss interesting or challenging annotation cases.~~
 
-If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June ~~10~~ 30, 2025**.
+~~If you are interested in participating in person and presenting your research in this workshop, please submit a short abstract (100 to 200 words) of your talk through the [registration form](https://forms.gle/VB9fBKDMrJdRucA16) by **June ~~10~~ 30, 2025**.~~
 
-The abstract should provide brief information about the treebank that you are maintaining or building, as well as the issues you would like to discuss in your presentation. Abstracts on other topics concerning the UD Turkic treebanks are also welcome.
+~~The abstract should provide brief information about the treebank that you are maintaining or building, as well as the issues you would like to discuss in your presentation. Abstracts on other topics concerning the UD Turkic treebanks are also welcome.~~
 
 ## Focus Areas
 
@@ -66,12 +66,12 @@ The workshop will be organized into two sessions:
 
 **Session 1: Presentations (09:00–10:30)**
 
-- 09:00–09:15	Issues related to the copula in Turkic languages — Jonathan Washington
-- 09:15–09:30	The "-ki" suffix annotation in Turkic languages — Nikolett Mus (online)
-- 09:30–09:45	New parallel treebanks — several collaborators
-- 09:45–10:00	Uzbek treebank — Sanatbek
-- 10:00–10:15	Karakalpak as a low-resource language in NLP — Ayperi
-- 10:15–10:30	Q&A for all presentations
+- 09:00–09:15 $\rightarrow$ Issues related to the copula in Turkic languages — Jonathan Washington
+- 09:15–09:30	$\rightarrow$ The "-ki" suffix annotation in Turkic languages — Nikolett Mus (online)
+- 09:30–09:45	$\rightarrow$ New parallel treebanks — several collaborators
+- 09:45–10:00	$\rightarrow$ Uzbek treebank — Sanatbek
+- 10:00–10:15	$\rightarrow$ Karakalpak as a low-resource language in NLP — Ayperi
+- 10:15–10:30	$\rightarrow$ Q&A for all presentations
 
 **Coffee Break (10:30–11:00)**
 
