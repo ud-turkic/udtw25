@@ -65,12 +65,12 @@ The workshop will be organized into two sessions:
 
 **Session 1: Presentations (09:00–10:30)**
 
-09:00–09:15  Issues related to the copula in Turkic languages — Jonathan Washington
-09:15–09:30  The "-ki" suffix annotation in Turkic languages — Nikolett Mus
-09:30–09:45  New parallel treebanks — several collaborators
-09:45–10:00  Uzbek treebank — Sanatbek
-10:00–10:15  Karakalpak language — Ayperi
-10:15–10:30  Q&A for all presentations
+09:00–09:15	Issues related to the copula in Turkic languages — Jonathan Washington
+09:15–09:30	The "-ki" suffix annotation in Turkic languages — Nikolett Mus (online)
+09:30–09:45	New parallel treebanks — several collaborators
+09:45–10:00	Uzbek treebank — Sanatbek
+10:00–10:15	Karakalpak as a low-resource language in NLP — Ayperi
+10:15–10:30	Q&A for all presentations
 
 **Coffee Break (10:30–11:00)**
 
