@@ -66,11 +66,11 @@ The workshop will be organized into two sessions:
 
 **Session 1: Presentations (09:00–10:30)**
 
-- 09:00 – 09:15 &rarr; Turkic copula strategies: Grammaticalisation, Typology, and Universal Dependencies — Jonathan Washington
-- 09:15 – 09:30 &rarr; The "-ki" suffix annotation in Turkic languages — Nikolett Mus (online)
-- 09:30 – 09:45 &rarr; New parallel treebanks — Akhundjanova et al.
-- 09:45 – 10:00 &rarr; Creating an Uzbek Dependency Treebank via Mapping and Annotating — Sanatbek Matlatipov
-- 10:00 – 10:15 &rarr; Karakalpak as a low-resource language in NLP — Ayperi Khudaybergenova
+- 09:00 – 09:15 &rarr; Turkic copula strategies: Grammaticalisation, Typology, and Universal Dependencies — Jonathan Washington _[file](https://jonorthwash.github.io/2025-TurkicCopulas-UDTW2/presentation.html)_
+- 09:15 – 09:30 &rarr; The "-ki" suffix annotation in Turkic languages — Nikolett Mus (online) _[file](assets/presentations/Mus.pdf)_
+- 09:30 – 09:45 &rarr; New parallel treebanks — Akhundjanova et al. _[file](assets/presentations/Akhundjanova.pdf)_
+- 09:45 – 10:00 &rarr; Creating an Uzbek Dependency Treebank via Mapping and Annotating — Sanatbek Matlatipov _[file](assets/presentations/Matlatipov.pptx)_
+- 10:00 – 10:15 &rarr; Karakalpak as a low-resource language in NLP — Ayperi Khudaybergenova _[file](assets/presentations/Khudaybergenova.pptx)_
 - 10:15 – 10:30 &rarr; Q&A for all presentations
 
 **Coffee Break (10:30–11:00)**
